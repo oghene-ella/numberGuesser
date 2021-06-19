@@ -1,8 +1,9 @@
 //game values
 let min = 0,
     max = 20,
-    winningNumber = getRandomNumber(min, max);
+    // winningNumber = getRandomNumber(min, max);
     guessesLeft = 5;
+    winningNumber = 8
 
 // ui elements
 const  game = document.querySelector('.content'),
