@@ -57,6 +57,7 @@ p{
         width:70%;
         height:15%;
         border-radius:18px;
+        font-size:19px;
     }
     .btn{
         width:50%;
@@ -95,7 +96,7 @@ p{
 @media (min-width:421px) and (max-width:520px){
     .container{
         width:75%;
-        height:58%;
+        height:60%;
         left:12.5%;
     }
     .header h2{
@@ -120,7 +121,7 @@ p{
 @media (min-width:521px) and (max-width:620px){
     .container{
         width:70%;
-        height:58%;
+        height:60%;
         left:17%;
     }
     .header h2{
