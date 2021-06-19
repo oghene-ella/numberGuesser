@@ -57,7 +57,7 @@ p{
         width:70%;
         height:15%;
         border-radius:18px;
-        font-size:19px;
+        font-size:17px;
     }
     .btn{
         width:50%;
@@ -90,7 +90,7 @@ p{
         height:13%;
     }
     p{
-        font-size:15.5px;
+        font-size:17px;
     }
 }
 @media (min-width:421px) and (max-width:520px){
