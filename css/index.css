@@ -94,7 +94,7 @@ p{
 }
 @media (min-width:421px) and (max-width:520px){
     .container{
-        width:70%;
+        width:75%;
         height:58%;
         left:12.5%;
     }
@@ -171,7 +171,7 @@ p{
     .container{
         width:50%;
         height:58%;
-        left:26%;
+        left:22%;
     }
     .header h2{
         font-size: 30px;
